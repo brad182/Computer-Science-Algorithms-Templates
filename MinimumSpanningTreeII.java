@@ -1,13 +1,8 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.StringTokenizer;
+import java.io.*;
 import java.util.*;
 
-// much faster implementation of Prim's using a priority queue
-public class MinimumSpanningTreeII {
+// fast implementation of Prim's using a priority queue
+public class MinimumSpanningTree {
 
     static class Connection {
         int nodeNumber;
