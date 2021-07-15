@@ -1,8 +1,8 @@
 import java.io.*;
 import java.util.*;
 
-// much faster Dijkstra's using priority queues: O(E*log(V))
-public class DijkstraShortestPathII {
+// fast Dijkstra's using priority queues: O(E*log(V))
+public class DijkstraAlgorithm {
 
     static final int infinity = 2000000000;
 
