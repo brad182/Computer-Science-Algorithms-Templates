@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class mergesort {
+public class MergeSort {
 
     static int[] numbers;
 
