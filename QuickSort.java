@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class quicksort {
+public class QuickSort {
 
     static int[] numbers;
 
